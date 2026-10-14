@@ -1,4 +1,9 @@
-# EARLY CITY
+# GTAVI - Early City
+
+<div align="center">
+  <img src="assets/gtavi-early-city-logo.png" alt="GTAVI - Early City logo" width="650">
+</div>
+
 
 **Independent playable 2D open-world browser prototype · Alpha v0.3.0**
 
